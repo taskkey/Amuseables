@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Amuseables Toys - Your Toy Shop</title>
+    <link rel="icon" href="logo.png" type="image/png"> 
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Amuseables Logo">
+        </div>
+        <h1>Amuseables</h1>
+        <div class="cart">
+            <button id="cart-btn">Cart (<span id="cart-count">0</span>)</button>
+        </div>
+    </header>
+
+    <main>
+        <div id="products-container" class="products-container"></div>
+    </main>
+
+    <!-- Modal -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <span id="close-modal" class="close-modal">&times;</span>
+            <div id="modal-details"></div>
+        </div>
+    </div>
+
+    <!-- Cart Panel -->
+    <div id="cart-panel" class="cart-panel hidden">
+        <div class="cart-header">
+            <h2>Your Cart</h2>
+            <button id="close-cart" class="close-cart">&times;</button>
+        </div>
+        <div id="cart-items" class="cart-items"></div>
+        <div class="cart-footer">
+            <p>Total: $<span id="cart-total">0.00</span></p>
+            <button id="checkout-btn">Checkout</button>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Amuseables Toys. All Rights Reserved.</p>
+        <p>Follow us on 
+            <a href="#" style="color: #26e5d3; text-decoration: none;">Facebook</a>, 
+            <a href="#" style="color: #26e5d3; text-decoration: none;">Instagram</a>, 
+            <a href="#" style="color: #26e5d3; text-decoration: none;">Twitter</a>
+        </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "SunnySide EggToast",
+        "price": 10.99,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/4087/119806/A2EGGT__55794.1734429573.jpg?c=1",
+        "description": "A cozy and adorable EggToast plush that will brighten up your day."
+    },
+    {
+        "id": "2",
+        "name": "Sweet CheriCake",
+        "price": 20.99,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/4073/119714/A2RVC__64500.1734429918.jpg?c=1",
+        "description": "A sweet and charming CheriCake plush that’s sure to steal your heart."
+    },
+    {
+        "id": "3",
+        "name": "FluffCroissant",
+        "price": 15.49,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/2574/111591/A4CROB__49275.1727974698.jpg?c=1",
+        "description": "A fluffy and flaky Croissant plush that makes the perfect cozy companion."
+    },
+    {
+        "id": "4",
+        "name": "Peanut Pals",
+        "price": 10.99,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/3917/119324/APN4BC__60499.1732743418.jpg?c=1",
+        "description": "This Peanut plush is small in size but big on cuteness and charm."
+    },
+    {
+        "id": "5",
+        "name": "Mallow Magic",
+        "price": 20.99,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/3875/119320/APM4BC__87181.1732743415.jpg?c=1",
+        "description": "Soft and squishy, these Mallows plush are perfect for any cuddling occasion."
+    },
+    {
+        "id": "6",
+        "name": "Toasty Hug",
+        "price": 15.49,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/2589/111639/A4TOBC__83970.1727974732.jpg?c=1",
+        "description": "A golden and toasty plush that’s sure to warm your heart."
+    },
+    {
+        "id": "7",
+        "name": "Baguette Bliss",
+        "price": 15.49,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/2521/119064/A2BAGET__15795.1732743228.jpg?c=1",
+        "description": "A long and lovable Baguette plush that’s perfect for any foodie."
+    },
+    {
+        "id": "8",
+        "name": "Gingerbread Joy",
+        "price": 10.99,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/3665/114315/JGB3FT__09355.1727976665.jpg?c=1",
+        "description": "A warm and festive Gingerbread plush that brings a touch of sweetness to any room."
+    },
+    {
+        "id": "9",
+        "name": "Popcorn Party Pal",
+        "price": 20.99,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/2570/119148/A4BPOP__98952.1732743291.jpg?c=1",
+        "description": "This Popcorn plush is full of fun and fluffy charm, perfect for any movie night."
+    },
+    {
+        "id": "10",
+        "name": "Avocado Dream",
+        "price": 15.49,
+        "image": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/3738/111551/A4AVBC__50098.1727974671.jpg?c=1",
+        "description": "A trendy and adorable Avocado plush that’s a must-have for any collection."
+    }
+]
